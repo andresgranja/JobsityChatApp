@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsityChatApp", "JobsityCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocksBot", "StocksBot\StocksBot.csproj", "{BAF35CF6-DFFC-4033-9A2F-010689DBAD61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{D775B45C-3AEC-4699-9010-D4E7C04D57D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BAF35CF6-DFFC-4033-9A2F-010689DBAD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAF35CF6-DFFC-4033-9A2F-010689DBAD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAF35CF6-DFFC-4033-9A2F-010689DBAD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D775B45C-3AEC-4699-9010-D4E7C04D57D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D775B45C-3AEC-4699-9010-D4E7C04D57D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D775B45C-3AEC-4699-9010-D4E7C04D57D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D775B45C-3AEC-4699-9010-D4E7C04D57D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
