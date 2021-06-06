@@ -15,7 +15,7 @@ namespace UnitTestProject
         {
             TestServer server = new TestServer(new WebHostBuilder().UseStartup<Startup>());
             using var client = server.CreateClient();
-            string stockCode = "wig20";
+            string stockCode = "aapl.us";
             HttpResponseMessage resp = await client.GetAsync($"StocksBot/GetStock?stockCode={stockCode}");
             resp.EnsureSuccessStatusCode();
             Assert.NotNull(resp);

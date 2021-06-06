@@ -163,3 +163,4 @@ C:\Users\Andres Granja\source\repos\JobsityChatApp\UnitTestProject\obj\Debug\net
 C:\Users\Andres Granja\source\repos\JobsityChatApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
 C:\Users\Andres Granja\source\repos\JobsityChatApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
 C:\Users\Andres Granja\source\repos\JobsityChatApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
+C:\Users\Andres Granja\source\repos\JobsityChatApp\UnitTestProject\bin\Debug\netcoreapp3.1\package-lock.json

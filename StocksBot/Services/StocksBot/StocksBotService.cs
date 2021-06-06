@@ -15,7 +15,7 @@ namespace StocksBot.Services.StocksBot
         }
         public Stock GetStock(string stockCode)
         {
-            using (HttpResponseMessage response = _client.GetAsync($"https://stooq.com/q/l/?s={stockCode}&f=sd2t2ohlcv&h&e=csv").Result)
+            using (HttpResponseMessage response = _client.GetAsync($"https://stooq.com/q/l/?s=aapl.us&f=sd2t2ohlcv&h&e=csv").Result)
             using (HttpContent stockContent = response.Content)
             {
                 var stockResponse = stockContent.ReadAsStringAsync().Result;

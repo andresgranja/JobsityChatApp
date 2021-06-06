@@ -90,3 +90,4 @@ C:\Users\Andres Granja\source\repos\JobsityChatApp\StocksBot\obj\Debug\netcoreap
 C:\Users\Andres Granja\source\repos\JobsityChatApp\StocksBot\obj\Debug\netcoreapp3.1\StocksBot.dll
 C:\Users\Andres Granja\source\repos\JobsityChatApp\StocksBot\obj\Debug\netcoreapp3.1\StocksBot.pdb
 C:\Users\Andres Granja\source\repos\JobsityChatApp\StocksBot\obj\Debug\netcoreapp3.1\StocksBot.genruntimeconfig.cache
+C:\Users\Andres Granja\source\repos\JobsityChatApp\StocksBot\bin\Debug\netcoreapp3.1\package-lock.json
